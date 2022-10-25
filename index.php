@@ -2,7 +2,6 @@
 <html class="nojs html css_verticalspacer" lang="ru-RU">
 
 <head>
-
     <meta http-equiv="X-UA-Compatible" content="chrome=IE8" />
     <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
     <meta name="description" content="Русская Марикульутра" />
@@ -30,9 +29,7 @@
     <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=1378209" />
     <link rel="stylesheet" type="text/css" href="css/index.css?crc=4287674032" id="pagesheet" />
     <!-- IE-only CSS -->
-    <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/iefonts_index.css?crc=4252394964"/>
-  <![endif]-->
+    <!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="css/iefonts_index.css?crc=4252394964"/><![endif]-->
     <!-- Other scripts -->
     <script type="text/javascript">
         var __adobewebfontsappname__ = "muse";
@@ -2267,25 +2264,29 @@
                         <!-- m_editable region-id="editable-static-tag-U13061-BP_infinity" template="index.php" data-type="image" data-ice-options="srcAttr=data-src" -->
                         <div class="SSSlide clip_frame clearfix grpelem" data-col-pos="0" id="u13061" data-muse-uid="U13061" data-muse-type="img_frame">
                             <!-- image -->
-                            <img class="ImageInclude position_content" data-col-pos="0" id="u13061_img" data-src="images/195301.jpg?crc=4278252532" src="images/blank.gif?crc=4208392903" alt="" data-width="1440" data-height="700" data-muse-src="images/195301.jpg?crc=4278252532" />
+                            <img class="ImageInclude position_content" data-col-pos="0" id="u13061_img" data-src="images/slide-01.jpg" src="images/blank.gif?crc=4208392903" alt="" data-width="1440" data-height="700" data-muse-src="images/slide-01.jpg" />
+                            <div class="slide-text">
+                                <span class="title">Традиции создаем мы</span>
+                                <span class="description">Промысел гидробионтов в России насчитывает несколько десятилетий, но многие виды продукции широко неизвестны.</span>
+                            </div>
                         </div>
                         <!-- /m_editable -->
                         <!-- m_editable region-id="editable-static-tag-U13171-BP_infinity" template="index.php" data-type="image" data-ice-options="srcAttr=data-src" -->
                         <div class="SSSlide invi clip_frame clearfix grpelem" data-col-pos="1" id="u13171" data-muse-uid="U13171" data-muse-type="img_frame">
                             <!-- image -->
-                            <img class="ImageInclude position_content" data-col-pos="1" id="u13171_img" data-src="images/195302.jpg?crc=211672272" src="images/blank.gif?crc=4208392903" alt="" data-width="1440" data-height="700" data-muse-src="images/195302.jpg?crc=211672272" />
+                            <img class="ImageInclude position_content" data-col-pos="1" id="u13171_img" data-src="images/slide-02.jpg" src="images/blank.gif?crc=4208392903" alt="" data-width="1440" data-height="700" data-muse-src="images/slide-02.jpg" />
                         </div>
                         <!-- /m_editable -->
                         <!-- m_editable region-id="editable-static-tag-U13197-BP_infinity" template="index.php" data-type="image" data-ice-options="srcAttr=data-src" -->
                         <div class="SSSlide invi clip_frame clearfix grpelem" data-col-pos="2" id="u13197" data-muse-uid="U13197" data-muse-type="img_frame">
                             <!-- image -->
-                            <img class="ImageInclude position_content" data-col-pos="2" id="u13197_img" data-src="images/195303.jpg?crc=354410648" src="images/blank.gif?crc=4208392903" alt="" data-width="1440" data-height="700" data-muse-src="images/195303.jpg?crc=354410648" />
+                            <img class="ImageInclude position_content" data-col-pos="2" id="u13197_img" data-src="images/slide-03.jpg" src="images/blank.gif?crc=4208392903" alt="" data-width="1440" data-height="700" data-muse-src="images/slide-03.jpg" />
                         </div>
                         <!-- /m_editable -->
                         <!-- m_editable region-id="editable-static-tag-U13223-BP_infinity" template="index.php" data-type="image" data-ice-options="srcAttr=data-src" -->
                         <div class="SSSlide invi clip_frame clearfix grpelem" data-col-pos="3" id="u13223" data-muse-uid="U13223" data-muse-type="img_frame">
                             <!-- image -->
-                            <img class="ImageInclude position_content" data-col-pos="3" id="u13223_img" data-src="images/195304.jpg?crc=352218108" src="images/blank.gif?crc=4208392903" alt="" data-width="1440" data-height="700" data-muse-src="images/195304.jpg?crc=352218108" />
+                            <img class="ImageInclude position_content" data-col-pos="3" id="u13223_img" data-src="images/slide-04.jpg" src="images/blank.gif?crc=4208392903" alt="" data-width="1440" data-height="700" data-muse-src="images/slide-04.jpg" />
                         </div>
                         <!-- /m_editable -->
                     </div>
