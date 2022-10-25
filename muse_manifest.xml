@@ -1,0 +1,331 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marikultura.ru" resolutions="1x" timestamp="1556137412196">
+  <folder name="css">
+    <file name="site_global.css" crc="1378209"/>
+    <file name="rusmarikultura-china.css" crc="452618497" ref="rusmarikultura-china"/>
+    <file name="iefonts_rusmarikultura-china.css" crc="534366096" ref="rusmarikultura-china"/>
+    <file name="index.css" crc="4287674032" ref="index"/>
+    <file name="iefonts_index.css" crc="4252394964" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:rusmarikultura-china"/>
+    <file name="museutils.js" crc="3803043152" ref="index:rusmarikultura-china"/>
+    <file name="whatinput.js" crc="86476730" ref="index:rusmarikultura-china"/>
+    <file name="museconfig.js" crc="380897831" ref="index:rusmarikultura-china"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:rusmarikultura-china"/>
+    <file name="webpro.js" crc="242022427" ref="index:rusmarikultura-china"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u3706.php" crc="24227773" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:rusmarikultura-china"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:rusmarikultura-china"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:rusmarikultura-china"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:rusmarikultura-china"/>
+    <file name="form-u3820.php" crc="394853786" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:rusmarikultura-china"/>
+    <file name="require.js" crc="4157109226" ref="index:rusmarikultura-china"/>
+    <file name="form-u14278.php" crc="31562292" ref="rusmarikultura-china"/>
+    <file name="form-u14998.php" crc="387329722" ref="rusmarikultura-china"/>
+  </folder>
+  <folder name="images">
+    <file name="русская-марикульутра-favicon.ico" crc="3939793449" ref="index"/>
+    <file name="glangefon.jpg" crc="64298397" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u14150-4-a.png" crc="472607996" ref="index"/>
+    <file name="logo.png" crc="4277542787" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="u120-8.png" crc="230109768" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:rusmarikultura-china"/>
+    <file name="u3757.png" crc="507546573" ref="index"/>
+    <file name="u3757-a.png" crc="4155218263" ref="index"/>
+    <file name="bgvesfon.png" crc="3798488706" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3130-4.png" crc="3867575429" ref="index"/>
+    <file name="u3184-4.png" crc="3931073424" ref="index"/>
+    <file name="u201-8.png" crc="234592885" ref="index"/>
+    <file name="u598-6.png" crc="533142895" ref="index"/>
+    <file name="russia.png" crc="4215295680" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="korea.png" crc="4233703622" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="japan.png" crc="321204017" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="skorea.png" crc="10283409" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="u1041-4.png" crc="4294915950" ref="index"/>
+    <file name="v4.png" crc="4098016933" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="carta.png" crc="3968707279" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="spat1.png" crc="435686032" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u126_states.png" crc="57148844" ref="index"/>
+    <file name="u126_states-r.png" crc="4057799120" ref="index"/>
+    <file name="u3136_states.png" crc="4261107809" ref="index"/>
+    <file name="u3136_states-r.png" crc="137369199" ref="index"/>
+    <file name="u3142_states.png" crc="515671873" ref="index"/>
+    <file name="u3142_states-r.png" crc="3837893426" ref="index"/>
+    <file name="buhta2.jpg" crc="4293201145" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1471.png" crc="4087606803" ref="index"/>
+    <file name="u1471-a.png" crc="4087606803" ref="index"/>
+    <file name="u14160_states.png" crc="3788697838" ref="index"/>
+    <file name="u14160_states-r.png" crc="309266995" ref="index"/>
+    <file name="195301.jpg" crc="4278252532" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="195302.jpg" crc="211672272" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="195303.jpg" crc="354410648" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="195304.jpg" crc="352218108" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="195301-crop-u13050.jpg" crc="3960298654" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="195302-crop-u13179.jpg" crc="3998826133" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="195303-crop-u13205.jpg" crc="218810543" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="195304-crop-u13231.jpg" crc="3833325093" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:rusmarikultura-china"/>
+    <file name="buhta1.jpg" crc="3857399539" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fonnignii.jpg" crc="84875300" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="v5.png" crc="3960749767" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="u3291-4.png" crc="322013977" ref="index"/>
+    <file name="u3849.png" crc="202035262" ref="index"/>
+    <file name="u3849-a.png" crc="202035262" ref="index"/>
+    <file name="u3949-10.png" crc="198428616" ref="index"/>
+    <file name="u3976.png" crc="3938696102" ref="index"/>
+    <file name="u3976-m.png" crc="4189526430" ref="index"/>
+    <file name="img_7061.jpg" crc="4192190573" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="img_7026.jpg" crc="492719564" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="img_7125.jpg" crc="4045546770" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="img_6958.jpg" crc="81490690" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="img_7049.jpg" crc="4211916397" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="img_7162.jpg" crc="227450655" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="img_7193.jpg" crc="4079922378" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="img_7203.jpg" crc="120903324" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="img_7183.jpg" crc="4174205648" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="img_7093.jpg" crc="334529736" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="img_7234.jpg" crc="4203838396" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="img_6973.jpg" crc="4119444421" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="img_7023.jpg" crc="4132430408" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="strelkileft.png" crc="252815953" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strelkiright.png" crc="3987930232" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u195-19.png" crc="425940870" ref="index"/>
+    <file name="u196-19.png" crc="492596713" ref="index"/>
+    <file name="u198-28.png" crc="3896882316" ref="index"/>
+    <file name="u199-19.png" crc="408592314" ref="index"/>
+    <file name="u200-19.png" crc="312432712" ref="index"/>
+    <file name="u6474-12.png" crc="3929059714" ref="index"/>
+    <file name="141020171854-01.png" crc="3771171100" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="141020171854-02.png" crc="4204496164" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="141020171854-03.png" crc="3952066037" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="141020171854-02-01.png" crc="4103839822" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="141020171854-02-02.png" crc="4116485131" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="141020171854-02-03.png" crc="458767462" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="141020171854-04-01.png" crc="201572412" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="141020171854-04-02.png" crc="510303770" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="141020171854-04-03.png" crc="4263009851" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="141020171854-05-02.png" crc="423183680" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="141020171854-05-01.png" crc="256861972" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="141020171854-05-03.png" crc="255941285" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="141020171854-06-01.png" crc="4150346565" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="141020171854-06-02.png" crc="4145914740" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="141020171854-06-03.png" crc="331415420" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="444444.png" crc="4008489217" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="11111.png" crc="3774892043" seo="true" ref="index:rusmarikultura-china">
+      <caption webpage="index" alt=""/>
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="rusmarikultura-china-favicon.ico" crc="3939793449" ref="rusmarikultura-china"/>
+    <file name="u14331-4-a.png" crc="3788697838" ref="rusmarikultura-china"/>
+    <file name="u14299-5.png" crc="4152992201" ref="rusmarikultura-china"/>
+    <file name="u14275.png" crc="450879031" ref="rusmarikultura-china"/>
+    <file name="u14275-a.png" crc="4208888897" ref="rusmarikultura-china"/>
+    <file name="u14485-4.png" crc="52272980" ref="rusmarikultura-china"/>
+    <file name="u14190-6.png" crc="4009601391" ref="rusmarikultura-china"/>
+    <file name="u14236-4.png" crc="3945111513" ref="rusmarikultura-china"/>
+    <file name="u14244-4.png" crc="3931558162" ref="rusmarikultura-china"/>
+    <file name="u14482_states.png" crc="3878749252" ref="rusmarikultura-china"/>
+    <file name="u14482_states-r.png" crc="115584423" ref="rusmarikultura-china"/>
+    <file name="u14535_states.png" crc="3850619082" ref="rusmarikultura-china"/>
+    <file name="u14535_states-r.png" crc="4043469238" ref="rusmarikultura-china"/>
+    <file name="u14361_states.png" crc="3914396884" ref="rusmarikultura-china"/>
+    <file name="u14361_states-r.png" crc="510544887" ref="rusmarikultura-china"/>
+    <file name="u14377-4.png" crc="4144296731" ref="rusmarikultura-china"/>
+    <file name="u14497.png" crc="4253423446" ref="rusmarikultura-china"/>
+    <file name="u14497-a.png" crc="4253423446" ref="rusmarikultura-china"/>
+    <file name="u14346_states.png" crc="472607996" ref="rusmarikultura-china"/>
+    <file name="u14346_states-r.png" crc="508034635" ref="rusmarikultura-china"/>
+    <file name="141120171416.jpg" crc="455403966" seo="true" ref="rusmarikultura-china">
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="141120171417.jpg" crc="3812593367" seo="true" ref="rusmarikultura-china">
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="141120171415.jpg" crc="383564634" seo="true" ref="rusmarikultura-china">
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="141120171414.jpg" crc="4292145924" seo="true" ref="rusmarikultura-china">
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="195301-crop-u14214.jpg" crc="3960298654" seo="true" ref="rusmarikultura-china">
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="195302-crop-u14216.jpg" crc="3998826133" seo="true" ref="rusmarikultura-china">
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="195303-crop-u14218.jpg" crc="218810543" seo="true" ref="rusmarikultura-china">
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="195304-crop-u14212.jpg" crc="3833325093" seo="true" ref="rusmarikultura-china">
+      <caption webpage="rusmarikultura-china" alt=""/>
+    </file>
+    <file name="u14254-4.png" crc="4258112402" ref="rusmarikultura-china"/>
+    <file name="u14170-10.png" crc="3813964333" ref="rusmarikultura-china"/>
+    <file name="u15023.png" crc="450879031" ref="rusmarikultura-china"/>
+    <file name="u15023-a.png" crc="4208888897" ref="rusmarikultura-china"/>
+    <file name="u14235.png" crc="3938696102" ref="rusmarikultura-china"/>
+    <file name="u14235-m.png" crc="4189526430" ref="rusmarikultura-china"/>
+    <file name="u14172-19.png" crc="208694535" ref="rusmarikultura-china"/>
+    <file name="u14473-19.png" crc="425347238" ref="rusmarikultura-china"/>
+    <file name="u14312-28.png" crc="3839329349" ref="rusmarikultura-china"/>
+    <file name="u14257-19.png" crc="63815963" ref="rusmarikultura-china"/>
+    <file name="u14362-19.png" crc="4056452177" ref="rusmarikultura-china"/>
+    <file name="u14183-4.png" crc="4522491" ref="rusmarikultura-china"/>
+  </folder>
+  <file name="index.html" crc="3855980948" seo="true" mt="1556136807784" redirect="true"/>
+  <file name="rusmarikultura-china.html" crc="3807587737" seo="true" mt="1556137271629" redirect="true"/>
+</manifest>
