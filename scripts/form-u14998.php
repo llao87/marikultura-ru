@@ -27,8 +27,8 @@ $form = array(
 		'unknown_method' => 'Неизвестный метод запроса сервера'
 	),
 	'email' => array(
-		'from' => 'painter@adobe.com',
-		'to' => 'painter@adobe.com'
+		'from' => 'common@crabfish.ru',
+		'to' => 'common@crabfish.ru'
 	),
 	'fields' => array(
 		'custom_U15012' => array(
