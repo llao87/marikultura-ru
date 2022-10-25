@@ -37,14 +37,12 @@
     <!-- JS includes -->
     <script src="https://webfonts.creativecloud.com/ubuntu:n7:all;open-sans:n4,n7:all.js" type="text/javascript"></script>
     <!--HTML Widget code-->
-    <style type="text/css">
+    <style>
         #u1474.size_fluid_width_height iframe {
             position: absolute;
             left: 0;
             top: 0;
         }
-    </style>
-    <style>
         body,
         html {
             overflow-x: hidden;
@@ -133,7 +131,7 @@
         
         .s3 {
             -webkit-animation-duration: .9s!important;
-            animation-duration: .9!important
+            animation-duration: 0.9s!important
         }
         
         .s4 {
@@ -2267,7 +2265,11 @@
                             <img class="ImageInclude position_content" data-col-pos="0" id="u13061_img" data-src="images/slide-01.jpg" src="images/blank.gif?crc=4208392903" alt="" data-width="1440" data-height="700" data-muse-src="images/slide-01.jpg" />
                             <div class="slide-text">
                                 <span class="title">Традиции создаем мы</span>
-                                <span class="description">Промысел гидробионтов в России насчитывает несколько десятилетий, но многие виды продукции широко неизвестны.</span>
+                                <span class="description">
+                                    Промысел гидробионтов в России насчитывает несколько десятилетий, но многие виды продукции широко неизвестны.<br>
+                                    <br>
+                                    Предлагаем вам познакомиться с миром марикультуры и его уникальными обитателями.
+                                </span>
                             </div>
                         </div>
                         <!-- /m_editable -->
@@ -2275,19 +2277,35 @@
                         <div class="SSSlide invi clip_frame clearfix grpelem" data-col-pos="1" id="u13171" data-muse-uid="U13171" data-muse-type="img_frame">
                             <!-- image -->
                             <img class="ImageInclude position_content" data-col-pos="1" id="u13171_img" data-src="images/slide-02.jpg" src="images/blank.gif?crc=4208392903" alt="" data-width="1440" data-height="700" data-muse-src="images/slide-02.jpg" />
+                            <div class="slide-text slide-text--left">
+                                <span class="title">Натуральные продукты</span>
+                                <span class="description">
+                                    Мы понимаем, насколько важно качество - поэтому выращиваем гребешка, трепанга и устриц в их естественной среде обитания.<br>
+                                    <br>
+                                    Наша компания применяет лучший отечественный и зарубежный опыт культивирования гидробионтов.
+                                </span>
+                            </div>
                         </div>
                         <!-- /m_editable -->
                         <!-- m_editable region-id="editable-static-tag-U13197-BP_infinity" template="index.php" data-type="image" data-ice-options="srcAttr=data-src" -->
                         <div class="SSSlide invi clip_frame clearfix grpelem" data-col-pos="2" id="u13197" data-muse-uid="U13197" data-muse-type="img_frame">
                             <!-- image -->
                             <img class="ImageInclude position_content" data-col-pos="2" id="u13197_img" data-src="images/slide-03.jpg" src="images/blank.gif?crc=4208392903" alt="" data-width="1440" data-height="700" data-muse-src="images/slide-03.jpg" />
+                            <div class="slide-text">
+                                <span class="title">Безграничные возможности</span>
+                                <span class="description">
+                                    Наша мариферма расположена в экологически чистом районе Японского моря. Мы хотим, чтобы свежие морепродукты были доступны не только в ресторанах Дальнего Востока, но и Москвы, Санкт-Петербурга и регионов России.<br>
+                                    <br>
+                                    Развивая этот проект, мы не только получаем продукцию для реализации, но и регулярно восполняем популяцию промысловых видов гидробионтов.
+                                </span>
+                            </div>
                         </div>
                         <!-- /m_editable -->
                         <!-- m_editable region-id="editable-static-tag-U13223-BP_infinity" template="index.php" data-type="image" data-ice-options="srcAttr=data-src" -->
-                        <div class="SSSlide invi clip_frame clearfix grpelem" data-col-pos="3" id="u13223" data-muse-uid="U13223" data-muse-type="img_frame">
+<!--                        <div class="SSSlide invi clip_frame clearfix grpelem" data-col-pos="3" id="u13223" data-muse-uid="U13223" data-muse-type="img_frame">-->
                             <!-- image -->
-                            <img class="ImageInclude position_content" data-col-pos="3" id="u13223_img" data-src="images/slide-04.jpg" src="images/blank.gif?crc=4208392903" alt="" data-width="1440" data-height="700" data-muse-src="images/slide-04.jpg" />
-                        </div>
+<!--                            <img class="ImageInclude position_content" data-col-pos="3" id="u13223_img" data-src="images/slide-04.jpg" src="images/blank.gif?crc=4208392903" alt="" data-width="1440" data-height="700" data-muse-src="images/slide-04.jpg" />-->
+<!--                        </div>-->
                         <!-- /m_editable -->
                     </div>
                 </div>
@@ -2313,10 +2331,10 @@
                         </div>
                         <!-- /m_editable -->
                         <!-- m_editable region-id="editable-static-tag-U13231-BP_infinity" template="index.php" data-type="image" data-ice-options="clickable" -->
-                        <div class="SSSlideLink rounded-corners clip_frame grpelem" data-col-pos="3" id="u13231" data-muse-uid="U13231" data-muse-type="img_frame">
+<!--                        <div class="SSSlideLink rounded-corners clip_frame grpelem" data-col-pos="3" id="u13231" data-muse-uid="U13231" data-muse-type="img_frame">-->
                             <!-- image -->
-                            <img class="block" data-col-pos="3" id="u13231_img" src="images/195304-crop-u13231.jpg?crc=3833325093" alt="" width="16" height="16" data-muse-src="images/195304-crop-u13231.jpg?crc=3833325093" />
-                        </div>
+<!--                            <img class="block" data-col-pos="3" id="u13231_img" src="images/195304-crop-u13231.jpg?crc=3833325093" alt="" width="16" height="16" data-muse-src="images/195304-crop-u13231.jpg?crc=3833325093" />-->
+<!--                        </div>-->
                         <!-- /m_editable -->
                     </div>
                 </div>
@@ -3031,7 +3049,8 @@
                         }); /* #pamphletu1415 */
                         Muse.Utils.initWidget('#slideshowu13043', ['#bp_infinity'], function(elem) {
                             var widget = new WebPro.Widget.ContentSlideShow(elem, {
-                                autoPlay: true,
+                                // autoPlay: true,
+                                autoPlay: false,
                                 displayInterval: 4000,
                                 slideLinkStopsSlideShow: false,
                                 transitionStyle: 'horizontal',
