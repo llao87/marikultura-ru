@@ -1160,7 +1160,8 @@
 #u1396-bw {
     z-index: 238;
     min-height: 384px;
-    margin-top: 7539px;
+    /*margin-top: 7539px;*/
+    margin-top: 7150px;
 }
 
 #u14160 {
@@ -3282,7 +3283,7 @@
     background-color: transparent;
     border-radius: 50px;
     position: fixed;
-    top: 7450px;
+    top: 6950px;
     left: 95px;
 }
 

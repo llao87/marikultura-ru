@@ -2231,9 +2231,12 @@
                                             <!-- group -->
                                             <div class="size_fixed grpelem" id="u1474">
                                                 <!-- custom html -->
+<!--                                                <iframe class="actAsDiv" style="width:100%;height:100%;" src="//www.youtube.com/embed/4U1fsOFwySA?autoplay=0&loop=0&showinfo=0&theme=dark&color=red&controls=1&modestbranding=0&start=0&fs=1&iv_load_policy=1&wmode=transparent&rel=1" frameborder="0" allowfullscreen></iframe>-->
 
-                                                <iframe class="actAsDiv" style="width:100%;height:100%;" src="//www.youtube.com/embed/4U1fsOFwySA?autoplay=0&loop=0&showinfo=0&theme=dark&color=red&controls=1&modestbranding=0&start=0&fs=1&iv_load_policy=1&wmode=transparent&rel=1" frameborder="0" allowfullscreen></iframe>
-
+                                                <video controls class="actAsDiv" style="width:100%;height:100%;">
+                                                    <source src="/video/antey_mariculture.mp4" type="video/mp4">
+                                                    Download the <a href="/video/antey_mariculture.mp4">MP4</a> video.
+                                                </video>
                                             </div>
                                         </div>
                                     </div>
@@ -3426,10 +3429,10 @@
                             "speed": [0, 1.6]
                         }]); /* scroll effect */
                         $('#u8801').registerPositionScrollEffect([{
-                            "in": [-Infinity, 6955.95],
+                            "in": [-Infinity, 6555.95],
                             "speed": [0, 0.6]
                         }, {
-                            "in": [6955.95, Infinity],
+                            "in": [6555.95, Infinity],
                             "speed": [0, 1.3]
                         }]); /* scroll effect */
                         $('#u8804').registerPositionScrollEffect([{
