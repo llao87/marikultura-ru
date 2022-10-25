@@ -28,8 +28,7 @@ $form = array(
 	),
 	'email' => array(
 		'from' => 'common@crabfish.ru',
-//		'to' => 'common@crabfish.ru'
-		'to' => 'dmitry.kragel@yandex.ru'
+		'to' => 'common@crabfish.ru'
 	),
 	'fields' => array(
 		'custom_U3829' => array(
