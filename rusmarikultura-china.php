@@ -3294,7 +3294,7 @@
                     }); /* #pamphletu14487 */
                     Muse.Utils.initWidget('#slideshowu14191', ['#bp_infinity'], function (elem) {
                         var widget = new WebPro.Widget.ContentSlideShow(elem, {
-                            autoPlay: false,
+                            autoPlay: true,
                             displayInterval: 4000,
                             slideLinkStopsSlideShow: false,
                             transitionStyle: 'horizontal',
