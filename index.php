@@ -2251,7 +2251,7 @@
                         </div>
                     </div>
                 </div>
-                <a class="nonblock nontext grpelem" id="u14160" href="rusmarikultura-china.html" data-href="page:U14994">
+                <a class="nonblock nontext grpelem" id="u14160" href="rusmarikultura-china.php" data-href="page:U14994">
                     <!-- state-based BG images --><img id="u14160_states" alt="CN" src="images/blank.gif?crc=4208392903" /></a>
             </div>
             <div class="SlideShowWidget clearfix colelem" id="slideshowu13043">
@@ -3014,7 +3014,7 @@
                                 contentLayout_runtime: 'lightbox',
                                 event: 'click',
                                 deactivationEvent: 'none',
-                                autoPlay: false,
+                                autoPlay: true,
                                 displayInterval: 3000,
                                 transitionStyle: 'fading',
                                 transitionDuration: 500,
